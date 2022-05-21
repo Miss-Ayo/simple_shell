@@ -1,11 +1,12 @@
 /**
  * shell - prompt command
- * return (0);
+ * str - string
+ * return (string);
  */
 
 #include "shell.h"
 
 char *shell(char *str)
 {
-    return (str);
+return (str);
 }
