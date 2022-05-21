@@ -37,7 +37,9 @@ A simple UNIX command interpreter. It can be compiled using GCC and will execute
 - write (man 2 write)
 
 **Compilation :**
+
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 
-**Testing : **
+**Testing :**
+
 $ ./hsh
